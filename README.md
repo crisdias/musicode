@@ -1,4 +1,4 @@
-# Codemusic: transformando músicas famosas em código
+# Musicode: transformando músicas famosas em código
 
 Este projeto é uma divertida brincadeira onde transformamos trechos de músicas famosas em código de programação. Cada música é representada por um trecho de código em várias linguagens de programação.
 
