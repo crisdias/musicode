@@ -6,11 +6,12 @@ Este projeto é uma divertida brincadeira onde transformamos trechos de músicas
 
 As seguintes músicas foram utilizadas neste projeto:
 
-1. ["Meu Erro"](meu_erro.swift) - Os Paralamas do Sucesso, em Swift
-1. ["Chocolate"](chocolate.js) - Tim Maia, em Javascript
-1. ["Caviar"](caviar.php) - Zeca Pagodinho, em PHP
-1. ["Evidências"](evid%C3%AAncias.kts) - Chitãozinho & Xororó, em Kotlin
-1. ["Carimbador Maluco"](plunct_plact_zum.py) - Raul Seixas, em Python
+1. ["Meu Erro"](meu_erro.swift) - Os Paralamas do Sucesso, em Bash.
+2. ["Chocolate"](chocolate.sh) - Tim Maia, em Javascript.
+3. ["Caviar"](caviar.php) - Zeca Pagodinho, em PHP.
+4. ["Evidências"](evid%C3%AAncias.kts) - Chitãozinho & Xororó, em Kotlin.
+5. ["Carimbador Maluco"](plunct_plact_zum.py) - Raul Seixas, em Python.
+6. ["Trem das Onze"](trem11.swift) - Adoniran Barbosa, em Swift.
 
 ## Direitos Autorais
 
