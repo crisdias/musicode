@@ -18,6 +18,7 @@ As seguintes músicas foram utilizadas neste projeto:
 4. ["Evidências"](evid%C3%AAncias.kts) - Chitãozinho & Xororó, em Kotlin.
 5. ["Carimbador Maluco"](plunct_plact_zum.py) - Raul Seixas, em Python.
 6. ["Trem das Onze"](trem11.swift) - Adoniran Barbosa, em Swift.
+7. ["Pais e Filhos"](pais_e_filhos.go) - Legião Urbana, em Go.
 
 ## Direitos Autorais
 
@@ -26,5 +27,3 @@ Todas as músicas utilizadas neste projeto são de propriedade de seus respectiv
 ## Licença
 
 Este projeto está licenciado sob a licença do Creative Commons Attribution 4.0 International (CC BY 4.0). Isso significa que você pode compartilhar, copiar, distribuir, exibir, executar e remixar este trabalho desde que dê crédito ao autor original. Para mais informações, consulte a [licença completa](https://creativecommons.org/licenses/by/4.0/).
-
-
