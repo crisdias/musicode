@@ -29,3 +29,5 @@ while eu.possoFicar(trens: trens) {
 }
 
 print("Não posso ficar nem mais um minuto com você.")
+
+// TODO v1.1: verificiar quantidade de objetos irmãos da classe Pessoa
