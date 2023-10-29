@@ -20,7 +20,7 @@ class Pessoa {
         } elseif ($this->caviar->comido) {
             return "Eu já comi caviar, mas nunca vi.";
         } elseif ($this->caviar->ouviu_falar) {
-            return "Nunca vi, nem comi caviar, eu só ouço falar.";
+            return "Nunca vi, nem comi, eu só ouço falar.";
         } else {
             return "Nunca ouvi falar de caviar.";
         }

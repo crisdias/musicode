@@ -12,8 +12,8 @@ O ChatGPT foi usado como meu "estagiário de programação", já que não domino
 
 As seguintes músicas foram utilizadas neste projeto:
 
-1. ["Meu Erro"](meu_erro.swift) - Os Paralamas do Sucesso, em Bash.
-2. ["Chocolate"](chocolate.sh) - Tim Maia, em Javascript.
+1. ["Meu Erro"](meu_erro.sh) - Os Paralamas do Sucesso, em Bash.
+2. ["Chocolate"](chocolate.js) - Tim Maia, em Javascript.
 3. ["Caviar"](caviar.php) - Zeca Pagodinho, em PHP.
 4. ["Evidências"](evid%C3%AAncias.kts) - Chitãozinho & Xororó, em Kotlin.
 5. ["Carimbador Maluco"](plunct_plact_zum.py) - Raul Seixas, em Python.
